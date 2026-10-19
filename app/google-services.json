@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121754787652",
+    "project_id": "portonautomatico-a3557",
+    "storage_bucket": "portonautomatico-a3557.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121754787652:android:3522c20780057fef0b8111",
+        "android_client_info": {
+          "package_name": "com.example.portonautomatico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNJG0Iv3X1XtSu99ZVVht3f2mGqjRsTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
