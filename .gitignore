@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Archivos de compilación
+app/debug/
+app/release/
+*.apk
